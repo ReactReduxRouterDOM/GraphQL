@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A folder where all server data will be kept for this project",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Server",
+    "MERNG"
+  ],
+  "author": "Omar Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.0"
+  }
+}
